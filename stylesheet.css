@@ -1,0 +1,86 @@
+#text-shit{
+    padding-left:10px;
+    padding-right:10px;
+} 
+
+p{
+    font-size: large;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.gorilla-carosel{
+    width: 1000px;
+    height: 1000px;
+}
+
+.bonobo-carosel{
+    width: 1000px;
+    height: 1000px;
+
+}
+
+.gorilla-picture{
+    width: 1250px;
+    height: 900px;
+}
+
+.gorilla-picture2{
+    width: 1250px;
+    height: 900px;
+}
+
+.gorilla-picture3{
+    width: 1250px;
+    height: 900px;
+}
+
+.gorilla-picture4{
+    width: 1250px;
+    height: 900px;
+}
+
+.bonobo-picture{
+    width: 950px;
+    height: 600px;
+}
+
+.bonobo-picture2{
+    width: 950px;
+    height: 600px;
+}
+
+.bonobo-picture3{
+    width: 950px;
+    height: 600px;
+}
+
+.bonobo-picture4{
+    width: 950px;
+    height: 600px;
+}
+
+.orangutan-carosel{
+    width: 1000px;
+    height: 1000px;
+}
+
+.orangutan-picture{
+    width: 950px;
+    height: 600;
+}
+
+.orangutan-picture2{
+    width: 950px;
+    height: 600;
+}
+
+.orangutan-picture3{
+    width: 950px;
+    height: 600;
+}
+
+.orangutan-picture4{
+    width: 950px;
+    height: 600;
+}
